@@ -2,7 +2,7 @@
 
 echo All variables passed to the script: $@
 echo Number of variables passed to the script: $#
-echo Name of the script: $0
+echo Name of the script: $O
 echo Present working directory: $PWD
 echo Home directory: $HOME
 echo Current user: $USER
